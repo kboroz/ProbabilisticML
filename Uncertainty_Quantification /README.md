@@ -1,6 +1,16 @@
-## Introduction to Uncertainty Quantification
+# Introduction to Uncertainty Quantification
 
 https://www.coursera.org/learn/introduction-to-uncertainty-quantification
+
+# Alternative resources:
+
+## Online graduate-level course in Uncertainty Quantification (UQ)
+
+https://aerodynamics.lr.tudelft.nl/~rdwight/cfdiv/index.html
+
+## Short Course on Uncertainty Quantification
+
+https://github.com/SURGroup/MSEE_UQ_Short_Course
 
 ## UQpy (Uncertainty Quantification with python) 
 
