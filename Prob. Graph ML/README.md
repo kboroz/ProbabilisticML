@@ -1,3 +1,7 @@
+## Probabilistic Graphical Models
+
+https://www.cs.cmu.edu/~epxing/Class/10708-14/index.html
+
 ## An Introduction to Probabilistic Machine Learning
 
 https://open.hpi.de/courses/probabilisticai2023
