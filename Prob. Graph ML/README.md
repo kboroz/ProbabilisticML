@@ -1,3 +1,7 @@
+## Bayesian networks in Python
+
+https://github.com/MaxHalford/sorobn
+
 ## Probabilistic Graphical Models
 
 https://www.cs.cmu.edu/~epxing/Class/10708-14/index.html
