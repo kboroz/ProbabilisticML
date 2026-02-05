@@ -1,3 +1,7 @@
+## Stochastic Foundations
+
+https://ki-campus.org/lernangebote/kurse/stochastic-foundations
+
 ## Bayesian probability theory
 
 https://imoox.at/course/bayes22
